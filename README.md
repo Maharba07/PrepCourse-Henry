@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de Prueba  para el bootcam de Henry
+Este es un proyecto es una prueba de como puedo clonarlo desde github hasta mi computadora 
